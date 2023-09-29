@@ -5,6 +5,8 @@ mod m4_polymorphism;
 mod m5_lifetimes;
 mod m6_patterns;
 mod m7_async;
+mod m8_collections;
+mod m9_decl_macros;
 
 const OUR_COURSE: &str = "Rust with AutoGPT";
 
